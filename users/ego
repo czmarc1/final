@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html long="en">
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Ego's Attic</title>
+    
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    
+    <style>
+    .box{
+        background-color:#000066;
+        padding: 40px;
+    }
+    .container{
+        border: 3px solid#fff;
+        
+    }
+    a:link{
+        color:#000;
+    }
+    a:hover{
+        color:#fff;
+    }
+    a:visited{
+        color:#000099;
+    }
+    a:active{
+        color:#dd0000;
+    }
+    header, nav, article, aside, footer {
+        border: 1px solid #000066;
+        background-color:#0000dd;
+        text-align:center;
+        color:#000;
+    }
+    nav h3{
+        float:left;
+        padding-right:190px;
+        border: 1px solid #000066;
+    }
+     p{
+        font-size: 16pt;
+    }
+    </style>
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+</head>
+<body>
+<div id="resort">
+<div class="box">
+<div class="container">
+    <!-- all content goes here -->
+    <div class="row">
+        <header class="col-md-12">
+            <h1>Ego's Attic</h1>
+        </header>
+    </div>
+    <div class="row">
+        <nav class="col-md-12">
+            <a href="http://czmarc1.github.io/final/"><h3>Home</h3></a>
+            <a href="http://czmarc1.github.io/final/rant"><h3>Rants</h3></a>
+            <a href="http://czmarc1.github.io/final/wrestle"><h3>Wrestling</h3></a>
+            <a href="http://czmarc1.github.io/final/user"><h3>Users</h3></a>
+             <a href="http://czmarc1.github.io/final/other"><h3>Other</h3></a>
+             <a href="http://czmarc1.github.io/final/pastpost"><h3>Past Posts</h3></a>
+        </nav>
+    </div>
+    <div class="row">
+        <article class="col-md-12">
+            <h1>~All By Myself~</h1>
+            <p>If this ever actually takes off this is were links to certain user's pages would go. Since its just me
+            right now this would be redundant.
+            </p>
+        </article>
+    </div>
+    <div class="row">
+        <aside class="col-md-12">
+    <h3>Previous User Pages</h3>
+    <a href="http://czmarc1.github.io/final/demos/demouser.html"><p>Demo User page<p></a>
+    <div class="row">
+    </aside>
+    </div> 
+    <div class="row">
+    <footer class="col-md-12"><p>Contact me here: cjczmar@gmail.com</p></footer>
+    </div>
+</div>
+</div>
+</div>
+ <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
